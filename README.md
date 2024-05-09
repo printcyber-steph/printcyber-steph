@@ -14,10 +14,9 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 CompTIA Network+
 Baltimore Range Certificate of Completion
 
-<h2>📺 Homelab Project Youtube Videos</h2>
+<h2>📺 Cybersecurity Projects</h2>
 
 - [Active Directory Home LAb](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
 
 
 <h2>📺 Homelab Project Youtube Videos</h2>
