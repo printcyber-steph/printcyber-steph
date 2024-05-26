@@ -11,8 +11,8 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 <h2> Certifications :</h2>
 
-CompTIA Network+
-Baltimore Range Certificate of Completion
+- CompTIA Network+
+- Baltimore Range Certificate of Completion
 
 <h2>📺 Cybersecurity Projects</h2>
 
