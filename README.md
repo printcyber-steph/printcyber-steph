@@ -16,9 +16,9 @@ Baltimore Range Certificate of Completion
 
 <h2>📺 Cybersecurity Projects</h2>
 
-- [Active Directory Home LAb](https://github.com/printcyber-steph/LABURL)
+- [Active Directory Home Lab](https://github.com/printcyber-steph/LABURL)
 
 
 <h2>📺 Homelab Project Youtube Videos</h2>
 
-- [Active Directory Home LAb](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
