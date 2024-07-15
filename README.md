@@ -1,9 +1,8 @@
 # Hello, I'm Stephano Catanuso
 <a href="https://linkedin.com/in/stephano-catanuso-101b7b308/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a current undergraduate with a profound interest in technology and a dedication to solving complex problems.
+I am a current undergraduate with a profound interest in IT and a dedication to solving complex problems.
 
 ## Objective
 
