@@ -25,6 +25,3 @@ https://www.canva.com/design/DAGkHjxmTC0/flB-3ABzdK1MDPrwsv6Zzg/view?utm_content
     -  🧾 [Project 1](https://youtu.be/ArXpOvnhGl4)
 
 
-<h2>📺 Homelab Project Youtube Videos</h2>
-
-- [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
